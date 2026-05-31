@@ -155,8 +155,8 @@ export function Hero() {
               <div className="absolute -left-8 inset-y-0 w-24 bg-gradient-to-r from-[#ff3355]/30 to-transparent z-10 pointer-events-none" />
               <div className="absolute -right-8 inset-y-0 w-24 bg-gradient-to-l from-[#1f6fff]/30 to-transparent z-10 pointer-events-none" />
               <PlaceholderImage
-                src="/images/hero/oscar nyamosi.png"
-                alt="omon devs Developer hero oscar nyamosi"
+                src="/images/hero/happy client.jpeg"
+                alt="omon devs Developer hero oscar nyamosi happy client"
                 className="w-full h-full object-cover"
                 containerClassName="w-full h-full"
                 fallbackText="Developer workspace"

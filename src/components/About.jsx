@@ -92,8 +92,8 @@ export function About() {
             <div className="relative rounded-2xl overflow-hidden border border-white/10 shadow-2xl aspect-[4/5]">
               <div className="absolute inset-0 bg-gradient-to-t from-[#020617]/80 via-transparent to-transparent z-10 pointer-events-none" />
               <PlaceholderImage
-                src="/images/about/about-founder.svg"
-                alt="Dev Malik - Full Stack Developer"
+                src="/images/founder/oscar nyamosi.png"
+                alt="Dev Malik - Full Stack Developer omon devs Developer hero oscar nyamosi happy client"
                 className="w-full h-full object-cover"
                 containerClassName="w-full h-full"
                 fallbackText="Dev Malik"
