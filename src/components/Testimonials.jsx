@@ -6,21 +6,21 @@ import { PlaceholderImage } from "./PlaceholderImage";
 const testimonials = [
   {
     text: "Working with OMON_DEVs was an amazing experience. The website was delivered on time and exceeded my expectations. Dev Malik is professional, skilled, and easy to work with.",
-    name: "John Mwangi",
+    name: "John Muiruri",
     title: "Business Owner",
     image: "/images/testimonials/client1.svg",
     stars: 5,
   },
   {
     text: "The school management system Dev Malik built transformed how we handle student records, fees, and exams. Absolutely brilliant work — our staff love using it every day.",
-    name: "Sarah Odhiambo",
+    name: "Zedekiah Odhiambo",
     title: "School Principal",
     image: "/images/testimonials/client2.svg",
     stars: 5,
   },
   {
     text: "Dev Malik built our entire SaaS platform in record time. Clean code, great communication, and 100% committed to the project. I will definitely be hiring again.",
-    name: "Michael Chen",
+    name: "Michael Tsavula",
     title: "Startup Founder",
     image: "/images/testimonials/client3.svg",
     stars: 5,

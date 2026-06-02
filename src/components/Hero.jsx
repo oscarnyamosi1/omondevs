@@ -157,7 +157,7 @@ export function Hero() {
               <PlaceholderImage
                 src="/images/hero/happy client.jpeg"
                 alt="omon devs Developer hero oscar nyamosi happy client"
-                className="w-full h-full object-cover"
+                className="w-full h-full object-cover "
                 containerClassName="w-full h-full"
                 fallbackText="Developer workspace"
               />
